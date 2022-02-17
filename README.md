@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javarmas
 - 👀 I’m interested in Engineering, Signal Processing, Machine Learning, IoT, Software Development, Data Science, etc. I am really fascinated about what the synergy between technology and business can lead to.
-- 🌱 I’m currently learning Python, Django and NodeJS
+- 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on fascinating projects that allows me to improve my skills and reach a higher level.
 - 📫 How to reach me: javier.armasnav@gmail.com or in LinkedIn: www.linkedin.com/in/javier-armas-nav
 
